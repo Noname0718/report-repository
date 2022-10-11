@@ -1,4 +1,4 @@
-// C program for Merge Sort
+// 브랜치 충돌 실습
 #include <stdio.h>
 #include <stdlib.h>
 
